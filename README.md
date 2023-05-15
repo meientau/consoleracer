@@ -26,7 +26,8 @@ Hint: Use keys `A` and `D` to control the "car".
 
 Can you ... ?
 
- * Find bugs and fix them
+ * Find bugs
+ * Fix them
  * Let difficulty increase over time
  * Implement the same in another language
  * Start over and write the whole program from memory
