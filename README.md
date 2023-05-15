@@ -21,3 +21,16 @@ very closely, making every semicolon count.
 
 Then run the code to see if your guess was correct.  If you are so inclined,
 giggle :-)
+
+Hint: Use keys `A` and `D` to control the "car".
+
+Can you ... ?
+
+ * Find bugs and fix them
+ * Let difficulty increase over time
+ * Implement the same in another language
+ * Start over and write the whole program from memory
+ * Make it more readable
+ * Make it shorter
+ * Make it more efficient
+ * Add fancy graphics
