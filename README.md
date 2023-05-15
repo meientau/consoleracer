@@ -35,3 +35,11 @@ Can you ... ?
  * Make it shorter
  * Make it more efficient
  * Add fancy graphics
+ * What else?
+
+While creating this, especially the example in Python, I was severely
+distressed to see how difficult it was to implement this appallingly
+simple concept in a modern environment, even after I had picked the
+the language with the lowest entry threshold.  My Atari 600XL is
+suffering from green screen disease, so I will find an emulator to
+implement the Atari Basic version.
