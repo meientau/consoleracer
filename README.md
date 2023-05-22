@@ -1,7 +1,7 @@
 # consoleracer
 The simplest game ever as a kata.
 
-When I had got my first computer, I switched it on, and it said:
+When I got my first computer, I switched it on, and it said:
 
 ![Atari 600XL says: Ready](ready.png)
 
